@@ -1,10 +1,10 @@
 import "./MyLabel.css";
 
-type LabelSize = "normal" | "h1" | "h2" | "h3";
+export type LabelSize = "normal" | "h1" | "h2" | "h3";
 
-type labelColor = "primary" | "secondary" | "tertiary";
+export type labelColor = "primary" | "secondary" | "tertiary";
 
-interface MyLabelProps {
+export interface MyLabelProps {
     /**
    * Message that's going to be shown
    */

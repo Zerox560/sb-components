@@ -1,0 +1,11 @@
+import { ComponentMeta, ComponentStory } from '@storybook/react';
+declare const _default: ComponentMeta<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export default _default;
+export declare const Normal: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Small: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Medium: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Big: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Primary: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Secondary: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Tertiary: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
+export declare const Capitalize: ComponentStory<({ label, size, color, allCaps, fontColor }: import("../../components/MyLabel").MyLabelProps) => JSX.Element>;
