@@ -1,9 +1,10 @@
 {
   "name": "zr-my-storybook",
+  "author": "Ramiro Cabrera",
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "typings": "dist/index.d.ts",
+  "typings": "dist/index.ts",
   "main": "dist/index.js",
   "repository": {
     "url": "https://github.com/Zerox560/sb-components",
